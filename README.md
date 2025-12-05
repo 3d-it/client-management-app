@@ -29,7 +29,7 @@ HTML
 
 CSS
 
-JavaScript
+React
 
 Backend
 
