@@ -1,6 +1,6 @@
 📌 Client Management App
 
-A lightweight and efficient Client Management System (CMS) built with Node.js, Express, SQLite, and a clean front-end UI. This full-stack CRUD application allows users to add, edit, update, and delete clients with a streamlined interface designed for small businesses, freelancers, and developers learning CRUD architecture.
+A lightweight and efficient Client Management System (CMS) built with React, Node.js, Express, SQLite, and a clean front-end UI. This full-stack CRUD application allows users to add, edit, update, and delete clients with a streamlined interface designed for small businesses, freelancers, and developers learning CRUD architecture.
 
 🚀 Features
 
@@ -92,7 +92,7 @@ DELETE	/clients/:id	Delete a client
 
 This app was built to demonstrate a clean, modular approach to:
 
-Full-stack JavaScript development
+Full-stack React development
 
 Building CRUD systems
 
